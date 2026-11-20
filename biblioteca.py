@@ -2,8 +2,6 @@
 
 import json
 
-
-
 def cargar_datos():
     """Lee los datos guardados en JSON."""
     archivo = open(
@@ -85,6 +83,7 @@ def eliminar_libro(isbn):
 
     return False
 
+
 def actualizar_libro(
     isbn,
     titulo,
@@ -92,6 +91,7 @@ def actualizar_libro(
     genero,
     fecha_publicacion
 ):
+    
     """Actualiza la información de un libro."""
 
     datos = cargar_datos()
@@ -109,6 +109,7 @@ def actualizar_libro(
     guardar_datos(datos)
 
     return True
+
 
 def imprimir_catalogo():
     """Crea el archivo catalogo.txt."""
@@ -155,4 +156,5 @@ def imprimir_catalogo():
 
         archivo.write("----------------------\n\n")
 
+    
     archivo.close()
