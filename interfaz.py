@@ -3,6 +3,7 @@
 import tkinter as tk
 from tkinter import messagebox
 from PIL import Image, ImageTk
+from ayuda import ayuda_guardar, ayuda_buscar, ayuda_actualizar
 
 
 from biblioteca import (
@@ -50,8 +51,8 @@ titulo = tk.Label(
     ventana,
     text="Biblioteca Digital  ",
     font=("Times New Roman", 19, "bold"),
-    bg = "#4375F2",
-    fg = "white"
+    bg="#4375F2",
+    fg="white"
 )
 
 titulo.grid(
@@ -312,9 +313,9 @@ def eliminar():
             "Libro no encontrado"
         )
 
+
 def actualizar():
     """Actualiza la información de un libro."""
-
     isbn = entrada_isbn.get()
     titulo = entrada_titulo.get()
     autor = entrada_autor.get()
@@ -355,8 +356,6 @@ def imprimir():
 
 
 # Botones
-
-from ayuda import ayuda_guardar, ayuda_buscar,ayuda_actualizar
 
 tk.Button(
     ventana,
@@ -463,3 +462,4 @@ tk.Button(
 )
 
 ventana.mainloop()
+
