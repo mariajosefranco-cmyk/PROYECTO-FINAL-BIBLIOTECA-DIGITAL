@@ -1,0 +1,48 @@
+----------------------
+ISBN: 1234-00
+Título: Frankestein
+Autor: Mary Shelley
+Género: Ciencia ficcion
+Fecha de publicación: 1-1-1816
+----------------------
+
+----------------------
+ISBN: 1234-01
+Título: La venganza de pato
+Autor: Maria Jose 
+Género: aventura
+Fecha de publicación: 18-11-2026
+----------------------
+
+----------------------
+ISBN: 1234-02
+Título: La venganza de pato II
+Autor: Adrian Alejandro
+Género: Fanasia
+Fecha de publicación: 18-11-2026
+----------------------
+
+----------------------
+ISBN: 1234-03
+Título: La venganza de pato IV
+Autor: Angel Paulino
+Género: Reflexion
+Fecha de publicación: 18-11-2026
+----------------------
+
+----------------------
+ISBN: 978-968-9287-35-3
+Título: El principito
+Autor: Antoine de Saint-Exupery
+Género: Narrativo
+Fecha de publicación: 6-04-1943
+----------------------
+
+----------------------
+ISBN: 4377837487889
+Título: La Vaca
+Autor: Isaac Newton
+Género: Masculino
+Fecha de publicación: 19 de Noviembre del 2026
+----------------------
+

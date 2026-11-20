@@ -1,0 +1,38 @@
+{
+    "1234-00": {
+        "titulo": "Frankestein",
+        "autor": "Mary Shelley",
+        "genero": "Ciencia ficcion",
+        "fecha_publicacion": "1-1-1816"
+    },
+    "1234-01": {
+        "titulo": "La venganza de pato",
+        "autor": "Maria Jose ",
+        "genero": "aventura",
+        "fecha_publicacion": "18-11-2026"
+    },
+    "1234-02": {
+        "titulo": "La venganza de pato II",
+        "autor": "Adrian Alejandro",
+        "genero": "Fanasia",
+        "fecha_publicacion": "18-11-2026"
+    },
+    "1234-03": {
+        "titulo": "La venganza de pato IV",
+        "autor": "Angel Paulino",
+        "genero": "Reflexion",
+        "fecha_publicacion": "18-11-2026"
+    },
+    "978-968-9287-35-3": {
+        "titulo": "El principito",
+        "autor": "Antoine de Saint-Exupery",
+        "genero": "Narrativo",
+        "fecha_publicacion": "6-04-1943"
+    },
+    "4377837487889": {
+        "titulo": "La Vaca",
+        "autor": "Isaac Newton",
+        "genero": "Masculino",
+        "fecha_publicacion": "19 de Noviembre del 2026"
+    }
+}
